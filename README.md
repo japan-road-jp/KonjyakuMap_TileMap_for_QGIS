@@ -7,7 +7,7 @@ QGISへXYZ-TilesのAPIを使って，今昔マップの旧版地形図を表示�
 
 本データセットは2021年3月1日現在の『[今昔マップ on the web](http://ktgis.net/kjmapw/tilemapservice.html   "今昔マップ on the web")』[1]で公開されている地域を収録しています．
 
-<img src="image.png" width="1000px"> 
+<img src="image.png" width="700px"> 
 
 
 
