@@ -4,7 +4,9 @@
 ## 概　 要    
 QGISへXYZ-TilesのAPIを使って，今昔マップの旧版地形図を表示させるためxmlデータセットです．
 このxmlファイルを使うと一括登録ができます．
-本データセットは2021.3.1現在の『今昔マップ on the web』[1]で公開されている地域を収録しています．  
+本データセットは2021.3.1現在の『今昔マップ on the web』[1]で公開されている地域を収録しています．
+[今昔マップ on the web](http://ktgis.net/kjmapw/tilemapservice.html   "今昔マップ on the web")
+
 
 ## データセット概要     
 + **データ形式**：　KML（Keyhole Markup Language）  
