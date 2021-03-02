@@ -1,9 +1,9 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>　
-# 今昔マップのQGIS向けXYZ-TilesのXMLデータ・データセット
+# QGIS向け：　今昔マップのXYZ-TilesのXMLデータ・データセット
 
 ## 概　 要    
-QGISへ今昔マップの旧版地形図を表示させるためタイルマップです．
-XMLファイルから一括登録ができます．
+QGISへXYZ-TilesのAPIを使って，今昔マップの旧版地形図を表示させるためxmlデータセットです．
+このxmlファイルを使うと一括登録ができます．
 本データセットは2021.3.1現在の『今昔マップ on the web』[1]で公開されている地域を収録しています．  
 
 ## データセット概要     
