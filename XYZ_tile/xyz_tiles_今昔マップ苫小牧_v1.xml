@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_苫小牧_1896" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/tomakomai/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_苫小牧_1935" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/tomakomai/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_苫小牧_1954-1955" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/tomakomai/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_苫小牧_1983-1984" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/tomakomai/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_苫小牧_1993-1999" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/tomakomai/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

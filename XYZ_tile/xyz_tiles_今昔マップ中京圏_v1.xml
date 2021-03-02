@@ -1,0 +1,16 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_中京圏_1888-1898" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/chukyo/2man/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_中京圏_1920" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/chukyo/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_中京圏_1932" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/chukyo/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_中京圏_1937-1938" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/chukyo/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_中京圏_1947" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/chukyo/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_中京圏_1959-1960" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/chukyo/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_中京圏_1968-1973" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/chukyo/05/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_中京圏_1976-1980" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/chukyo/06/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_中京圏_1984-1989" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/chukyo/07/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_中京圏_1992-1996" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/chukyo/08/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

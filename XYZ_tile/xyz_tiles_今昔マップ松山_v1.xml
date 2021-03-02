@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_松山_1903" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/matsuyama/2man/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_松山_1928-1955" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/matsuyama/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_松山_1968" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/matsuyama/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_松山_1985" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/matsuyama/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_松山_1998-1999" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/matsuyama/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>
