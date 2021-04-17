@@ -21,6 +21,10 @@ QGISへXYZ-TilesのAPIを使って，今昔マップの旧版地形図を表示�
 1. zipを解凍すると「XYZ_tile」フォルダ内のkmlファイルを取得できます．
 1. QGISを立ち上げ，「XYZ_tile」>「接続をロード」からお好みのkmlファイルを読み込んでください．
 
+##　簡単なチュートリアル  
+noteの以下の記事を御覧ください．
+https://note.com/smatsu/n/ne3f862f37401?magazine_key=m3a14836a1e82
+
 
 ## 引用 
 
