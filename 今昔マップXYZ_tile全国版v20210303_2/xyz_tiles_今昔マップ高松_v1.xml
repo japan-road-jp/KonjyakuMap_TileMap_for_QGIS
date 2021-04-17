@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_高松_1896-1910" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/takamatsu/2man/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_高松_1928" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/takamatsu/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_高松_1969" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/takamatsu/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_高松_1983-1984" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/takamatsu/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_高松_1990-2000" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/takamatsu/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_山口_1897-1909" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/yamaguchi/2man/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_山口_1922-1927" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/yamaguchi/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_山口_1936-1951" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/yamaguchi/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_山口_1969" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/yamaguchi/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_山口_1983-1989" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/yamaguchi/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_山口_2000-2001" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/yamaguchi/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>
