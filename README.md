@@ -44,5 +44,5 @@ https://note.com/smatsu/n/ne3f862f37401?magazine_key=m3a14836a1e82
 japan.road.jp@gmail.com （国道愛好家　松波宛）
   
 ## 履歴  
-
+2021.04.29　東予・庄内追加  
 2021.03.02　公開  
