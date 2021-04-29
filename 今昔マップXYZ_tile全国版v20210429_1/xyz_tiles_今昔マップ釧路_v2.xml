@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_釧路_1897" zmin="8" zmax="15" url="http://ktgis.net/kjmapw/kjtilemap/kushiro/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_釧路_1922" zmin="8" zmax="15" url="http://ktgis.net/kjmapw/kjtilemap/kushiro/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_釧路_1958" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/kushiro/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_釧路_1981" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/kushiro/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_釧路_2001" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/kushiro/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

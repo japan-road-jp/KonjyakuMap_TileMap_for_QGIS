@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_長野_1912" zmin="8" zmax="15" url="http://ktgis.net/kjmapw/kjtilemap/nagano/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_長野_1937" zmin="8" zmax="15" url="http://ktgis.net/kjmapw/kjtilemap/nagano/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_長野_1960" zmin="8" zmax="15" url="http://ktgis.net/kjmapw/kjtilemap/nagano/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_長野_1972-1973" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/nagano/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_長野_1985" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/nagano/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_長野_2001" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/nagano/05/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>
