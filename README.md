@@ -1,5 +1,5 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>　
-# QGIS向け：　今昔マップのXYZ-TilesのXMLデータ・データセット
+# QGIS向け：　今昔マップのXYZ-TilesのXMLデータ・データセット （2021.4.29改訂）
 
 ## 概　 要    
 QGISへXYZ-TilesのAPIを使って，今昔マップの旧版地形図を表示させるためxmlデータセットです．
