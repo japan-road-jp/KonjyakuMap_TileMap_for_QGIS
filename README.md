@@ -41,7 +41,7 @@ https://note.com/smatsu/n/ne3f862f37401?magazine_key=m3a14836a1e82
 
 ## コンタクト先
 動作確認などに不具合が認められる場合，商用・営利目的での利用は「コンタクト先」でご連絡をいただければ幸いです．  
-japan.road.jp@gmail.com （国道愛好家　松波宛）
+japan.road.jp@gmail.com （国道愛好家　くにみち宛）
   
 ## 履歴  
 2021.04.29　東予・庄内追加  
