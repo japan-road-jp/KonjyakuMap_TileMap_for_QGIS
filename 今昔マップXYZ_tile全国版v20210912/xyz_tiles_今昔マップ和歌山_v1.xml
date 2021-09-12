@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_和歌山_1908-1912" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/wakayama/2man/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_和歌山_1934" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/wakayama/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_和歌山_1947" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/wakayama/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_和歌山_1966-1967" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/wakayama/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_和歌山_1984-1985" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/wakayama/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_和歌山_1998-2000" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/wakayama/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

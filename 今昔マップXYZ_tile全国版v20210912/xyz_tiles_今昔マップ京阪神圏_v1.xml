@@ -1,0 +1,16 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_京阪神圏_1892-1910" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/keihansin/2man/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_京阪神圏_1922-1923" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/keihansin/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_京阪神圏_1927-1935" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/keihansin/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_京阪神圏_1947-1950" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/keihansin/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_京阪神圏_1954-1956" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/keihansin/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+	<xyztiles name="今昔マップ_京阪神圏_1961-1964" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/keihansin/03x/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_京阪神圏_1967-1970" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/keihansin/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_京阪神圏_1975-1979" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/keihansin/05/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_京阪神圏_1983-1988" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/keihansin/06/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_京阪神圏_1993-1997" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/keihansin/07/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

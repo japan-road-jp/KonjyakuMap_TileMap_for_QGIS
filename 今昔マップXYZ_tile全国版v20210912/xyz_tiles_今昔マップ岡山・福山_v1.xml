@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_岡山・福山_1895-1898" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/okayama/2man/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_岡山・福山_1925" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/okayama/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_岡山・福山_1965-1970" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/okayama/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_岡山・福山_1978-1988" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/okayama/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_岡山・福山_1990-2000" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/okayama/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

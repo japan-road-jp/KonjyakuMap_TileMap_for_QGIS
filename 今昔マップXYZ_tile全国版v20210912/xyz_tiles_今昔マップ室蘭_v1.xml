@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_室蘭_1896" zmin="8" zmax="15" url="http://ktgis.net/kjmapw/kjtilemap/muroran/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_室蘭_1917" zmin="8" zmax="15" url="http://ktgis.net/kjmapw/kjtilemap/muroran/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_室蘭_1955" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/muroran/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_室蘭_1986-1987" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/muroran/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_室蘭_1998-2000" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/muroran/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>
