@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_熊本_1900-1901" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/kumamoto/2man/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_熊本_1926" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/kumamoto/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_熊本_1965-1971" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/kumamoto/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_熊本_1983" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/kumamoto/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_熊本_1998-2000" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/kumamoto/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

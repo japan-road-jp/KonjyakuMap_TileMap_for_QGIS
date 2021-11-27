@@ -1,0 +1,15 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_首都圏_1896-1909" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/tokyo50/2man/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_首都圏_1917-1924" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/tokyo50/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_首都圏_1927-1939" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/tokyo50/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_首都圏_1944-1954" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/tokyo50/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_首都圏_1965-1968" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/tokyo50/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_首都圏_1975-1978" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/tokyo50/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_首都圏_1983-1987" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/tokyo50/05/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_首都圏_1992-1995" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/tokyo50/06/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_首都圏_1998-2005" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/tokyo50/07/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

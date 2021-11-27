@@ -1,0 +1,10 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_秋田_1912" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/akita/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_秋田_1971-1972" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/akita/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_秋田_1985-1990" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/akita/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_秋田_2006-2007" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/akita/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>
