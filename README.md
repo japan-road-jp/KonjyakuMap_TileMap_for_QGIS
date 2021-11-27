@@ -1,5 +1,5 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>　
-# QGIS向け：　今昔マップのXYZ-TilesのXMLデータ・データセット （2021.9.12改訂）
+# QGIS向け：　今昔マップのXYZ-TilesのXMLデータ・データセット （2021.11.26改訂）
 
 ## 概　 要    
 QGISへXYZ-TilesのAPIを使って，今昔マップの旧版地形図を表示させるためxmlデータセットです．
@@ -44,6 +44,7 @@ https://note.com/smatsu/n/ne3f862f37401?magazine_key=m3a14836a1e82
 japan.road.jp@gmail.com （国道愛好家　くにみち宛）
   
 ## 履歴
+2021.11.26　岩手県南追加   
 2021.09.12　近江・室蘭追加   
 2021.04.29　東予・庄内追加  
 2021.03.02　公開  
