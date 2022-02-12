@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_広島_1894-1899" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/hiroshima/2man/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_広島_1925-1932" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/hiroshima/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_広島_1950-1954" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/hiroshima/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_広島_1967-1969" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/hiroshima/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_広島_1984-1990" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/hiroshima/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_広島_1992-2001" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/hiroshima/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

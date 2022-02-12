@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_弘前_1912" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/hirosaki/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_弘前_1939" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/hirosaki/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_弘前_1970-1971" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/hirosaki/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_弘前_1980-1986" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/hirosaki/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_弘前_1994-1997" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/hirosaki/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

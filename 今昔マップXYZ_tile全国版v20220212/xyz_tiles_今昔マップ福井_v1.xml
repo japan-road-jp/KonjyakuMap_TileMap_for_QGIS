@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_福井_1909" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/fukui/2man/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_福井_1930" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/fukui/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_福井_1969-1973" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/fukui/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_福井_1988-1990" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/fukui/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_福井_1996-2000" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/fukui/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

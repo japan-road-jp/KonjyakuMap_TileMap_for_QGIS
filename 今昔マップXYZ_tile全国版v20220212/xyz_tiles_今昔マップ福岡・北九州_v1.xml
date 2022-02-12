@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_福岡・北九州_1922-1926" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/fukuoka/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_福岡・北九州_1936-1938" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/fukuoka/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_福岡・北九州_1948-1956" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/fukuoka/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_福岡・北九州_1967-1972" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/fukuoka/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_福岡・北九州_1982-1986" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/fukuoka/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_福岡・北九州_1991-2000" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/fukuoka/05/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

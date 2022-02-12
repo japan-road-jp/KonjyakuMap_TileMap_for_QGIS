@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_大牟田・島原_1910" zmin="8" zmax="15" url="http://ktgis.net/kjmapw/kjtilemap/omuta/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_大牟田・島原_1941-1942" zmin="8" zmax="15" url="http://ktgis.net/kjmapw/kjtilemap/omuta/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_大牟田・島原_1970" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/omuta/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_大牟田・島原_1983-1987" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/omuta/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_大牟田・島原_1993-1994" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/omuta/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_大牟田・島原_1999-2000" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/omuta/05/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+</qgsXYZTilesConnections>

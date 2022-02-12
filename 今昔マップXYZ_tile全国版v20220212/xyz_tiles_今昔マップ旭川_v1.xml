@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_旭川_1916-1917" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/asahikawa/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_旭川_1950-1952" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/asahikawa/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_旭川_1972-1974" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/asahikawa/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_旭川_1986" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/asahikawa/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_旭川_1999-2001" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/asahikawa/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

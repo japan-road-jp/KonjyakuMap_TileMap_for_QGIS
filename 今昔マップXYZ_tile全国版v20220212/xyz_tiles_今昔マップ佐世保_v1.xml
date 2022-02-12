@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_佐世保_1900-1901" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/sasebo/2man/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_佐世保_1924" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/sasebo/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_佐世保_1971" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/sasebo/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_佐世保_1985-1987" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/sasebo/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_佐世保_1997-1998" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/sasebo/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

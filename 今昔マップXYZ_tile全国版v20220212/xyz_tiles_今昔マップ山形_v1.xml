@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_山形_1901-1903" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/yamagata/2man/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_山形_1931" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/yamagata/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_山形_1970" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/yamagata/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_山形_1980-1989" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/yamagata/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_山形_1999-2001" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/yamagata/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

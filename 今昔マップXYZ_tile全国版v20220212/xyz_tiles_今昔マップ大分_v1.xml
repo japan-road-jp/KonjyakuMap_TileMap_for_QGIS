@@ -1,0 +1,10 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_大分_1914" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/oita/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_大分_1973" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/oita/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_大分_1984-1986" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/oita/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_大分_1997-2001" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/oita/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>

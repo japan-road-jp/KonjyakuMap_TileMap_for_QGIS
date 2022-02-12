@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_近江_1891-1909" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/omi/2man/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_近江_1920-1922" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/omi/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_近江_1954" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/omi/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_近江_1967-1971" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/omi/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_近江_1979-1986" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/omi/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_近江_1992-1999" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/omi/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+</qgsXYZTilesConnections>

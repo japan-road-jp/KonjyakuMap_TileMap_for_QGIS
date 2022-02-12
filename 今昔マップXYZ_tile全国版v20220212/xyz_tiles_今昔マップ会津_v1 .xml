@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_会津_1908-1910" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/aizu/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_会津_1931" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/aizu/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_会津_1972-1975" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/aizu/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_会津_1988-1991" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/aizu/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_会津_1997-2000" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/aizu/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>
