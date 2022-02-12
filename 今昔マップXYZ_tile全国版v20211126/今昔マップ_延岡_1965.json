@@ -1,0 +1,17 @@
+[
+{
+"name": "今昔マップ_延岡_1965",
+"copyright": "今昔マップ on the web",
+"url": "ktgis.net/kjmapw/kjtilemap/nobeoka/02/$Z/$X/$Y",
+"ext": "png",
+"no_ext": "false",
+"port": "80",
+"url_type": "standard",
+"denshi-kokudo_type": "map",
+"origin": "bottom_left",
+"min_zoom": "8",
+"max_zoom": "16",
+"dem": "false",
+"dem_type": "yamatabi"
+}
+]
