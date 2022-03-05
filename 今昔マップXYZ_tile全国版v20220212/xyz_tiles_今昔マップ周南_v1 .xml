@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_周南_1899" zmin="8" zmax="15" url="http://ktgis.net/kjmapw/kjtilemap/shunan/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_周南_1949" zmin="8" zmax="15" url="http://ktgis.net/kjmapw/kjtilemap/shunan/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_周南_1968-1969" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/shunan/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_周南_1985" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/shunan/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_周南_1994-2001" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/shunan/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>
