@@ -1,11 +1,11 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>　
-# QGIS向け：　今昔マップのXYZ-TilesのXMLデータ・データセット （2022.2.12改訂）
+# QGIS向け：　今昔マップのXYZ-TilesのXMLデータ・データセット （2022.3.3改訂）
 
 ## 概　 要    
 QGISへXYZ-TilesのAPIを使って，今昔マップの旧版地形図を表示させるためxmlデータセットです．
 このxmlファイルを使うと一括登録ができます．  
 
-本データセットは2022年2月12日現在の『[今昔マップ on the web](http://ktgis.net/kjmapw/tilemapservice.html   "今昔マップ on the web")』[1]で公開されている地域を収録しています．
+本データセットは2022年3月3日現在の『[今昔マップ on the web](http://ktgis.net/kjmapw/tilemapservice.html   "今昔マップ on the web")』[1]で公開されている地域を収録しています．
 
 <img src="image.png" width="1000px"> 
 
@@ -44,6 +44,7 @@ https://note.com/smatsu/n/ne3f862f37401?magazine_key=m3a14836a1e82
 japan.road.jp@gmail.com （国道愛好家　くにみち宛）
   
 ## 履歴
+2022.03.03　周南追加  
 2022.02.12　延岡，八代，大牟田・島原追加  
 2021.11.26　岩手県南追加   
 2021.09.12　近江・室蘭追加   
