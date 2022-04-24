@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+
+    <xyztiles name="今昔マップ_伊那_1911" zmin="8" zmax="15" url="http://ktgis.net/kjmapw/kjtilemap/ina/00/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_伊那_1951-1952" zmin="8" zmax="15" url="http://ktgis.net/kjmapw/kjtilemap/ina/01/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_伊那_1976" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/ina/02/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_伊那_1987-1990" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/ina/03/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+    <xyztiles name="今昔マップ_伊那_1998-2001" zmin="8" zmax="16" url="http://ktgis.net/kjmapw/kjtilemap/ina/04/{z}/{x}/{-y}.png" username="" password="" authcfg="" referer="" />
+
+</qgsXYZTilesConnections>
